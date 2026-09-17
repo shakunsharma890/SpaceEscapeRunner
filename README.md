@@ -19,6 +19,10 @@ A modern, fast-paced side-scrolling space evasion game built with **React Native
 - **Storage:** AsyncStorage
 - **Styling:** LinearGradient
 
+## 🎥 Project Demo
+[Watch Space Escape Runner Demo]
+https://drive.google.com/file/d/1ttKTVdUBlavQjioGIRFdx2Gjl3fkNlZp/view?usp=drivesdk
+
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
